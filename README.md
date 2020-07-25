@@ -5,10 +5,15 @@
 </p>
 
 ## This is my GitHub Profile
-<p align="center">
-   <strong>You can find some repositories that can help you in your day to day<strong/>
-</p>
 
+<p align="center">
+   <strong>You can find some repositories that can help you in your day to day.<strong/>
+</p>
+      
+<p align="center">
+   <strong>Some of the technologies you can find here<strong/>
+</p>
+  
 <p align="center">
   <img src="https://raw.githubusercontent.com/fgarcia-code/fgarcia-code/master/images/gopher.png" width="150" height="150" />
   <img src="https://raw.githubusercontent.com/fgarcia-code/fgarcia-code/master/images/bash.png" width="100" height="100" />
