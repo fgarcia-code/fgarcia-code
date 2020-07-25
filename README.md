@@ -1,6 +1,6 @@
 # Hi there, I'm Paco
 <p align="center">
-   <img src="https://github4life.herokuapp.com/ethomson.gif" width="1000" height="150" />
+   <img src="https://github4life.herokuapp.com/ethomson.gif" />
 </p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/fgarcia-code/fgarcia-code/master/images/gopher.png" width="200" height="200" />
