@@ -9,7 +9,7 @@
   <img src="https://raw.githubusercontent.com/fgarcia-code/fgarcia-code/master/images/kubernetes.png" width="110" height="110" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/fgarcia-code/fgarcia-code/master/images/archlinux.png" width="115" height="115" />&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://raw.githubusercontent.com/fgarcia-code/fgarcia-code/master/images/elasticsearch.png" width="110" height="110" />&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://raw.githubusercontent.com/fgarcia-code/fgarcia-code/master/images/kafka.png" width="70" height="110" />&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/fgarcia-code/fgarcia-code/master/images/kafka.png" width="70" height="110" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 
