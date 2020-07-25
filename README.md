@@ -11,7 +11,7 @@
 </p>
        
 <p align="center">
-  <img src="https://raw.githubusercontent.com/fgarcia-code/fgarcia-code/master/images/gopher.png" width="120" height="120" />
+  <img src="https://raw.githubusercontent.com/fgarcia-code/fgarcia-code/master/images/gopher.png" width="120" height="100" />
   <img src="https://raw.githubusercontent.com/fgarcia-code/fgarcia-code/master/images/bash.png" width="70" height="70" />
 </p>
 <p align="center">
