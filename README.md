@@ -11,7 +11,7 @@
 </p>
       
 <p align="center">
-   <strong>Some of the technologies you can find here<strong/>
+   <strong>*Some of the technologies you can find here*<strong/>
 </p>
   
 <p align="center">
