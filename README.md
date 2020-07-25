@@ -1,5 +1,5 @@
 # Code and Help
-<img  src="https://raw.githubusercontent.com/fgarcia-code/fgarcia-code/master/images/gopher.png" width="10" height="10" />
+<img  src="https://raw.githubusercontent.com/fgarcia-code/fgarcia-code/master/images/gopher.png" width="100" height="100" />
 **Hi, I'm Paco**
 ![](https://raw.githubusercontent.com/fgarcia-code/fgarcia-code/master/images/archlinux.png)
 ![](https://raw.githubusercontent.com/fgarcia-code/fgarcia-code/master/images/docker.png)
