@@ -7,11 +7,11 @@
 ## This is my GitHub Profile
 
 <p align="center">
-   <strong>You can find some repositories that can help you in your day to day.<strong/>
+   <strong>You can find some repositories that can help you in your day to day<strong/>
 </p>
       
 <p align="center">
-   <strong>*Some of the technologies you can find here*<strong/>
+   *Some of the technologies you can find here*
 </p>
   
 <p align="center">
