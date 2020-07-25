@@ -2,9 +2,10 @@
 <p align="center">
    <img src="https://github4life.herokuapp.com/ethomson.gif" />
 </p>
+## This is my GitHub Profile
 <p align="center">
-  <img src="https://raw.githubusercontent.com/fgarcia-code/fgarcia-code/master/images/gopher.png" width="200" height="200" />
-  <img src="https://raw.githubusercontent.com/fgarcia-code/fgarcia-code/master/images/bash.png" width="130" height="130" />
+  <img src="https://raw.githubusercontent.com/fgarcia-code/fgarcia-code/master/images/gopher.png" width="150" height="150" />
+  <img src="https://raw.githubusercontent.com/fgarcia-code/fgarcia-code/master/images/bash.png" width="100" height="100" />
 </p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/fgarcia-code/fgarcia-code/master/images/golang.png" width="170" height="60" />&nbsp;&nbsp;&nbsp;&nbsp;
