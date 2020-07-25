@@ -1,8 +1,6 @@
 # Code and Help
-<img  src="https://raw.githubusercontent.com/fgarcia-code/fgarcia-code/master/images/gopher.png" style="zoom:20%; float: left" />
-
-​                 **Hi, I'm Paco**
-
+<img  src="https://raw.githubusercontent.com/fgarcia-code/fgarcia-code/master/images/gopher.png" width="10" height="10" />
+**Hi, I'm Paco**
 ![](https://raw.githubusercontent.com/fgarcia-code/fgarcia-code/master/images/archlinux.png)
 ![](https://raw.githubusercontent.com/fgarcia-code/fgarcia-code/master/images/docker.png)
 ![](https://raw.githubusercontent.com/fgarcia-code/fgarcia-code/master/images/kubernetes.png)
