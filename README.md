@@ -4,8 +4,6 @@
    <img src="https://raw.githubusercontent.com/fgarcia-code/fgarcia-code/master/images/contributions.gif" width="950" height="130" />
 </p>
 
-## This is my Profile
-
 <p align="center">
    <strong>You can find some repositories that can help you in your day to day<strong/>
 </p>
