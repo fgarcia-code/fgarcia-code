@@ -1,7 +1,7 @@
 # Hi there, I'm Paco
 
 <p align="center">
-   <img src="https://raw.githubusercontent.com/fgarcia-code/fgarcia-code/master/images/contributions.gif" width="1000" height="100" />
+   <img src="https://raw.githubusercontent.com/fgarcia-code/fgarcia-code/master/images/contributions.gif" width="950" height="120" />
 </p>
 
 ## This is my GitHub Profile
