@@ -1,7 +1,7 @@
 # Hi there, I'm Paco
 
 <p align="center">
-   <img src="https://github4life.herokuapp.com/ethomson.gif" />
+   <img src="https://github4life.herokuapp.com/ethomson.gif" width="800" height="120" />
 </p>
 
 ## This is my GitHub Profile
