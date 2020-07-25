@@ -22,3 +22,9 @@
     <img src="https://raw.githubusercontent.com/fgarcia-code/fgarcia-code/master/images/elasticsearch.png" width="110" height="110" />&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://raw.githubusercontent.com/fgarcia-code/fgarcia-code/master/images/kafka.png" width="70" height="110" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
+
+## Repositories
+
+* [Go Examples](https://github.com/fgarcia-code/go-examples)
+* [Vi fast reference](https://github.com/fgarcia-code/vi-editor-reference)
+* [Linux fast reference](https://github.com/fgarcia-code/linux-reference)
