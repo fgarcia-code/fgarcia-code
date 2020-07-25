@@ -1,24 +1,15 @@
 # Code and Help
-<img  src="images/gopher.png" style="zoom:20%; float: left" />
+<img  src="https://raw.githubusercontent.com/fgarcia-code/fgarcia-code/master/images/gopher.png" style="zoom:20%; float: left" />
 
 ​                 **Hi, I'm Paco**
 
-<img src="images/golang.png" style="zoom:25%;float:left;display:in-line" />
-
-<img src="images/docker.png" style="zoom:35%;float:left;display:in-line" />
-
-<img src="images/kubernetes.png" style="zoom:60%;float:left;display:in-line" />
-
-<img src="images/archlinux.png" style="zoom:25%;float:left;display:in-line" />
-
-<img src="images/linux.png" style="zoom:15%;float:left;display:in-line" />
-
-<img src="images/bash.png" style="zoom:35%;float:left;display:in-line" />
-
-<img src="images/elasticsearch.png" style="zoom:45%;float:left;display:in-line" />
-
-
-
-<img src="images/kafka.png" style="zoom:30%;float:left;display:in-line" />
+![](https://raw.githubusercontent.com/fgarcia-code/fgarcia-code/master/images/archlinux.png)
+![](https://raw.githubusercontent.com/fgarcia-code/fgarcia-code/master/images/docker.png)
+![](https://raw.githubusercontent.com/fgarcia-code/fgarcia-code/master/images/kubernetes.png)
+![](https://raw.githubusercontent.com/fgarcia-code/fgarcia-code/master/images/archlinux.png)
+![](https://raw.githubusercontent.com/fgarcia-code/fgarcia-code/master/images/linux.png)
+![](https://raw.githubusercontent.com/fgarcia-code/fgarcia-code/master/images/bash.png)
+![](https://raw.githubusercontent.com/fgarcia-code/fgarcia-code/master/images/elasticsearch.png)
+![](https://raw.githubusercontent.com/fgarcia-code/fgarcia-code/master/images/kafka.png)
 
 ![](https://github4life.herokuapp.com/ethomson.gif)
